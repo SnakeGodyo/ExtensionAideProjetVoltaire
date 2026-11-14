@@ -79,7 +79,7 @@
         el.addEventListener(cle.slice(2), val);
       } else el.setAttribute(cle, val);
     }
-    for (const e of enfants.flat()) if (e != null) el.append(e);
+    for (const e of enfants.flat(Infinity)) if (e != null) el.append(e);
     return el;
   }
 
