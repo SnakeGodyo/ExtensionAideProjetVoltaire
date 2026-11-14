@@ -95,7 +95,7 @@ le script injecté dans la page n'y a jamais accès.
 
 ## Ajouter des règles
 
-Ajoute un objet dans `data/regles.json` :
+Pour ajouter des règles dans `data/regles.json` collez ce code et changez-le à votre façon :
 
 ```json
 {
