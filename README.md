@@ -22,17 +22,15 @@ voltaire-coach/
 
 ## Installation (temporaire)
 
-1. Ouvre `about:debugging#/runtime/this-firefox`.
-2. Clique sur **Charger un module complémentaire temporaire…**
-3. Sélectionne le fichier `manifest.json` du dossier.
-4. Ouvre `about:addons` → Voltaire Coach → onglet **Autorisations** et active
-   l'accès à `projetvoltaire.fr` (en Manifest V3, Firefox demande l'accord
+1. Ouvrez `about:debugging#/runtime/this-firefox`.
+2. Cliquez sur **Charger un module complémentaire temporaire…**
+3. Sélectionnez le fichier `manifest.json` du dossier.
+4. Ouvrez `about:addons` → Voltaire Coach → onglet **Autorisations** et active
+   l'accès à `projet-voltaire.fr` (en Manifest V3, Firefox demande l'accord
    de l'utilisateur pour les permissions d'hôte).
 5. Recharge la page Projet Voltaire : un bouton 📘 apparaît en bas à droite.
 
-L'extension temporaire disparaît au redémarrage de Firefox. Pour une
-installation durable, il faut la faire signer (compte développeur Mozilla,
-distribution « non listée »).
+L'extension temporaire disparaît au redémarrage de Firefox.
 
 ## Utilisation
 
