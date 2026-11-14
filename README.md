@@ -82,7 +82,7 @@ marquée « proposée par l'IA : à vérifier »).
 3. Coche « Activer », colle la clé, choisis le modèle, puis **Enregistrer**.
    Firefox demande l'autorisation d'envoyer le contenu de la page à OpenRouter.
 4. **Tester la connexion** vérifie la clé.
-> [!WARNING]
+> [!ATTENTION]
 > **ATTENTION :** Si le programme affiche une erreur alors que vous avez enregistré les modifications, regardez uniquement le début de l'erreur. L'erreur dira toujours que vous n'avez pas enregistré.
 
 Rien n'est envoyé sans clic. Seul le texte de la zone d'exercice est transmis
