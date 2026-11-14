@@ -86,7 +86,7 @@ marquée « proposée par l'IA : à vérifier »).
 > **ATTENTION :** Si le programme affiche une erreur alors que vous avez enregistré les modifications, regardez uniquement le début de l'erreur. L'erreur dira toujours que vous n'avez pas enregistré.
 
 > [!TIP]
-> Pour cette utilisation il est recommandé de prendre le modèle openrouter 'mistralai/mistral-large-4-0'
+> Pour cette utilisation il est recommandé de prendre le modèle openrouter `mistralai/mistral-large-4-0`
 
 Rien n'est envoyé sans clic. Seul le texte de la zone d'exercice est transmis
 (pas l'adresse de la page, pas de compte). La clé reste dans le background :
