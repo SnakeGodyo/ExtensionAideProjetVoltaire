@@ -82,6 +82,8 @@ marquée « proposée par l'IA : à vérifier »).
 3. Coche « Activer », colle la clé, choisis le modèle, puis **Enregistrer**.
    Firefox demande l'autorisation d'envoyer le contenu de la page à OpenRouter.
 4. **Tester la connexion** vérifie la clé.
+> [!WARNING]
+> **ATTENTION :** Si le programme affiche une erreur alors que vous avez enregistré les modifications, regardez uniquement le début de l'erreur. L'erreur dira toujours que vous n'avez pas enregistré.
 
 Rien n'est envoyé sans clic. Seul le texte de la zone d'exercice est transmis
 (pas l'adresse de la page, pas de compte). La clé reste dans le background :
@@ -91,11 +93,11 @@ le script injecté dans la page n'y a jamais accès.
 
 - Par défaut : aucune requête réseau. Seule l'aide de l'IA, désactivée par défaut et déclenchée par un clic, contacte `openrouter.ai`.
 - Le carnet est stocké uniquement dans `storage.local` de ton navigateur.
-- Le seul accès demandé est le domaine `projetvoltaire.fr`.
+- Le seul accès demandé est le domaine `projet-voltaire.fr`.
 
 ## Ajouter des règles
 
-Pour ajouter des règles dans `data/regles.json` collez ce code et changez-le à votre façon :
+Pour ajouter des règles d'orthographe ou de grammaire dans `data/regles.json` collez ce code et changez-le à votre façon :
 
 ```json
 {
