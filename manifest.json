@@ -1,0 +1,50 @@
+{
+  "manifest_version": 3,
+  "name": "Voltaire Coach",
+  "version": "1.1.2",
+  "description": "T'explique tes erreurs sur Projet Voltaire, puis te pose des questions pour vérifier que tu as compris. Ne répond jamais à ta place.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "voltaire-coach@exemple.local",
+      "strict_min_version": "140.0",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ],
+        "optional": [
+          "websiteContent"
+        ]
+      }
+    }
+  },
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "*://*.projetvoltaire.fr/*"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.projet-voltaire.fr/*"
+      ],
+      "js": [
+        "matcher.js",
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "optional_host_permissions": [
+    "https://openrouter.ai/*"
+  ],
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": true
+  }
+}

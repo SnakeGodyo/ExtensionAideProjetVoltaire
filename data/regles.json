@@ -1,0 +1,1485 @@
+[
+  {
+    "id": "a-accent",
+    "titre": "a / à",
+    "categorie": "Homophones",
+    "mots_cles": [
+      "a ou à",
+      "a / à",
+      "verbe avoir",
+      "préposition à"
+    ],
+    "explication": "« a » est le verbe avoir (il a). « à » est une préposition (à Paris, à midi).",
+    "astuce": "Remplace par « avait ». Si la phrase reste correcte, écris « a ».",
+    "exemples": [
+      {
+        "faux": "Il à mangé à la cantine.",
+        "juste": "Il a mangé à la cantine."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Elle ___ rendez-vous ___ dix heures.",
+        "choix": [
+          "a … à",
+          "à … a",
+          "a … a"
+        ],
+        "reponse": 0,
+        "explication": "On peut dire « elle avait rendez-vous » ; « à dix heures » est une préposition."
+      },
+      {
+        "q": "Quelle phrase est correcte ?",
+        "choix": [
+          "Il a faim, il va à la boulangerie.",
+          "Il à faim, il va a la boulangerie.",
+          "Il a faim, il va a la boulangerie."
+        ],
+        "reponse": 0,
+        "explication": "« a faim » = avait faim ; « à la boulangerie » = préposition."
+      }
+    ]
+  },
+  {
+    "id": "ou-ou-accent",
+    "titre": "ou / où",
+    "categorie": "Homophones",
+    "mots_cles": [
+      "ou / où",
+      "ou ou où",
+      "ou bien",
+      "adverbe de lieu"
+    ],
+    "explication": "« ou » exprime un choix (ou bien). « où » indique un lieu ou un moment (la ville où je vis).",
+    "astuce": "Remplace par « ou bien » : si c'est possible, pas d'accent.",
+    "exemples": [
+      {
+        "faux": "Où préfères-tu : le thé où le café ?",
+        "juste": "Où préfères-tu : le thé ou le café ?"
+      }
+    ],
+    "quiz": [
+      {
+        "q": "___ vas-tu ?",
+        "choix": [
+          "Ou",
+          "Où"
+        ],
+        "reponse": 1,
+        "explication": "On ne peut pas dire « ou bien vas-tu » : c'est le lieu, donc « où »."
+      },
+      {
+        "q": "Tu prends du thé ___ du café ?",
+        "choix": [
+          "ou",
+          "où"
+        ],
+        "reponse": 0,
+        "explication": "« ou bien » est possible : c'est un choix."
+      }
+    ]
+  },
+  {
+    "id": "et-est",
+    "titre": "et / est",
+    "categorie": "Homophones",
+    "mots_cles": [
+      "et / est",
+      "et ou est",
+      "conjonction de coordination",
+      "verbe être"
+    ],
+    "explication": "« et » relie deux éléments (et puis). « est » est le verbe être (il est).",
+    "astuce": "Remplace par « était » : si c'est possible, écris « est ».",
+    "exemples": [
+      {
+        "faux": "Il et grand est fort.",
+        "juste": "Il est grand et fort."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Il ___ grand ___ fort.",
+        "choix": [
+          "est … et",
+          "et … est",
+          "est … est"
+        ],
+        "reponse": 0,
+        "explication": "« Il était grand » est possible ; « et puis fort » relie deux adjectifs."
+      }
+    ]
+  },
+  {
+    "id": "on-ont",
+    "titre": "on / ont",
+    "categorie": "Homophones",
+    "mots_cles": [
+      "on / ont",
+      "on ou ont",
+      "pronom on",
+      "verbe avoir"
+    ],
+    "explication": "« ont » est le verbe avoir à la 3e personne du pluriel. « on » est un pronom sujet.",
+    "astuce": "Remplace par « avaient » : si c'est possible, écris « ont ».",
+    "exemples": [
+      {
+        "faux": "Ils on fini, ont peut partir.",
+        "juste": "Ils ont fini, on peut partir."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Ils ___ fini, ___ peut partir.",
+        "choix": [
+          "ont … on",
+          "on … ont",
+          "ont … ont"
+        ],
+        "reponse": 0,
+        "explication": "« Ils avaient fini » → ont ; « il peut partir » → on."
+      }
+    ]
+  },
+  {
+    "id": "son-sont",
+    "titre": "son / sont",
+    "categorie": "Homophones",
+    "mots_cles": [
+      "son / sont",
+      "son ou sont",
+      "déterminant possessif",
+      "verbe être"
+    ],
+    "explication": "« sont » est le verbe être au pluriel. « son » est un déterminant possessif (son frère).",
+    "astuce": "Remplace par « étaient » : si c'est possible, écris « sont ».",
+    "exemples": [
+      {
+        "faux": "Ses amis son arrivés avec sont frère.",
+        "juste": "Ses amis sont arrivés avec son frère."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Ses amis ___ arrivés avec ___ frère.",
+        "choix": [
+          "sont … son",
+          "son … sont",
+          "sont … sont"
+        ],
+        "reponse": 0,
+        "explication": "« étaient arrivés » → sont ; « son frère » est un possessif."
+      }
+    ]
+  },
+  {
+    "id": "ce-se",
+    "titre": "ce / se",
+    "categorie": "Homophones",
+    "mots_cles": [
+      "ce / se",
+      "ce ou se",
+      "verbe pronominal",
+      "déterminant démonstratif"
+    ],
+    "explication": "« se » précède un verbe pronominal (il se lève). « ce » est un démonstratif (ce matin, ce qui).",
+    "astuce": "Mets la phrase à la 1re personne : « me lève » → se ; « ce matin » reste « ce ».",
+    "exemples": [
+      {
+        "faux": "Se matin, il ce lève tôt.",
+        "juste": "Ce matin, il se lève tôt."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "___ matin, il ___ lève tôt.",
+        "choix": [
+          "Ce … se",
+          "Se … ce",
+          "Ce … ce"
+        ],
+        "reponse": 0,
+        "explication": "« ce matin » (démonstratif) ; « se lever » (verbe pronominal)."
+      }
+    ]
+  },
+  {
+    "id": "leur-leurs",
+    "titre": "leur / leurs",
+    "categorie": "Homophones",
+    "mots_cles": [
+      "leur / leurs",
+      "leur ou leurs",
+      "pronom personnel",
+      "déterminant possessif"
+    ],
+    "explication": "Devant un verbe, « leur » est un pronom invariable (je leur parle). Devant un nom, c'est un déterminant : « leurs » prend un s si plusieurs choses sont possédées.",
+    "astuce": "Remplace par « lui » : si c'est possible, c'est le pronom, donc sans s.",
+    "exemples": [
+      {
+        "faux": "Je leurs ai donné leur cahiers.",
+        "juste": "Je leur ai donné leurs cahiers."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Je ___ ai donné ___ cahiers.",
+        "choix": [
+          "leur … leurs",
+          "leurs … leur",
+          "leur … leur"
+        ],
+        "reponse": 0,
+        "explication": "« Je lui ai donné » → pronom invariable ; « leurs cahiers » : plusieurs cahiers."
+      }
+    ],
+    "formes": [
+      "leur",
+      "leurs"
+    ]
+  },
+  {
+    "id": "quelle-quelle",
+    "titre": "quel(le) / qu'elle(s)",
+    "categorie": "Homophones",
+    "mots_cles": [
+      "quelle / qu'elle",
+      "qu'elle",
+      "quelle ou qu'elle",
+      "quel que"
+    ],
+    "explication": "« quelle » accompagne un nom (quelle idée !). « qu'elle » est « que » + « elle ».",
+    "astuce": "Remplace « elle » par « il » : si c'est possible, écris « qu'elle ».",
+    "exemples": [
+      {
+        "faux": "Je pense quelle viendra.",
+        "juste": "Je pense qu'elle viendra."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Je pense ___ viendra.",
+        "choix": [
+          "qu'elle",
+          "quelle",
+          "quel"
+        ],
+        "reponse": 0,
+        "explication": "« Je pense qu'il viendra » : c'est « que » + pronom."
+      }
+    ],
+    "formes": [
+      "quelle",
+      "quelles",
+      "qu'elle",
+      "qu'elles"
+    ]
+  },
+  {
+    "id": "pp-etre",
+    "titre": "Participe passé avec l'auxiliaire être",
+    "categorie": "Accords",
+    "mots_cles": [
+      "participe passé employé avec être",
+      "auxiliaire être",
+      "accord avec le sujet",
+      "participe passé avec être"
+    ],
+    "explication": "Avec l'auxiliaire être, le participe passé s'accorde en genre et en nombre avec le sujet.",
+    "astuce": "Repère le sujet, puis accorde : Marie est tombée, les fleurs sont cueillies.",
+    "exemples": [
+      {
+        "faux": "Les fleurs sont cueilli par l'enfant.",
+        "juste": "Les fleurs sont cueillies par l'enfant."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Les fleurs sont (cueillir) par l'enfant.",
+        "choix": [
+          "cueillies",
+          "cueilli",
+          "cueillis"
+        ],
+        "reponse": 0,
+        "explication": "Sujet « les fleurs » : féminin pluriel."
+      },
+      {
+        "q": "Marie est (tomber).",
+        "choix": [
+          "tombé",
+          "tombée",
+          "tombés"
+        ],
+        "reponse": 1,
+        "explication": "Sujet « Marie » : féminin singulier."
+      }
+    ]
+  },
+  {
+    "id": "pp-avoir",
+    "titre": "Participe passé avec l'auxiliaire avoir",
+    "categorie": "Accords",
+    "mots_cles": [
+      "participe passé employé avec avoir",
+      "auxiliaire avoir",
+      "complément d'objet direct",
+      "cod placé avant",
+      "participe passé avec avoir"
+    ],
+    "explication": "Avec avoir, le participe passé ne s'accorde jamais avec le sujet. Il s'accorde avec le COD seulement si celui-ci est placé avant le verbe.",
+    "astuce": "Cherche le COD (quoi ?). Est-il avant le verbe ? Alors accorde.",
+    "exemples": [
+      {
+        "faux": "Les lettres qu'il a écrit.",
+        "juste": "Les lettres qu'il a écrites."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Les lettres qu'il a (écrire).",
+        "choix": [
+          "écrit",
+          "écrite",
+          "écrites"
+        ],
+        "reponse": 2,
+        "explication": "« que » = les lettres, COD placé avant : féminin pluriel."
+      },
+      {
+        "q": "Elle a (écrire) une lettre.",
+        "choix": [
+          "écrit",
+          "écrite",
+          "écrites"
+        ],
+        "reponse": 0,
+        "explication": "Le COD « une lettre » est après le verbe : pas d'accord."
+      }
+    ]
+  },
+  {
+    "id": "pp-pronominal",
+    "titre": "Participe passé des verbes pronominaux",
+    "categorie": "Accords",
+    "mots_cles": [
+      "verbes pronominaux",
+      "participe passé pronominal",
+      "se est cod",
+      "participe passé des verbes pronominaux"
+    ],
+    "explication": "On accorde avec le sujet si « se » est COD (elles se sont lavées). Pas d'accord si « se » est COI (elles se sont parlé) ou si le COD est placé après (elles se sont lavé les mains).",
+    "astuce": "Remplace « se » par « à elles / à eux » : si c'est possible, « se » est COI : invariable.",
+    "exemples": [
+      {
+        "faux": "Elles se sont parlées.",
+        "juste": "Elles se sont parlé."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Elles se sont (parler).",
+        "choix": [
+          "parlé",
+          "parlées",
+          "parlés"
+        ],
+        "reponse": 0,
+        "explication": "On parle à quelqu'un : « se » est COI, donc invariable."
+      },
+      {
+        "q": "Elles se sont (laver).",
+        "choix": [
+          "lavé",
+          "lavées",
+          "lavés"
+        ],
+        "reponse": 1,
+        "explication": "« se » est COD (elles ont lavé elles-mêmes) : accord avec le sujet."
+      }
+    ]
+  },
+  {
+    "id": "er-e-ez",
+    "titre": "Terminaisons -er / -é / -ez",
+    "categorie": "Conjugaison",
+    "mots_cles": [
+      "-er ou -é",
+      "infinitif ou participe passé",
+      "terminaison en -er",
+      "-ez"
+    ],
+    "explication": "-er : infinitif ; -é : participe passé ; -ez : 2e personne du pluriel.",
+    "astuce": "Remplace par un verbe du 3e groupe : vendre → -er ; vendu → -é ; vendez → -ez.",
+    "exemples": [
+      {
+        "faux": "Il faut mangé avant de partir.",
+        "juste": "Il faut manger avant de partir."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Il faut (manger) avant de partir.",
+        "choix": [
+          "manger",
+          "mangé",
+          "mangez"
+        ],
+        "reponse": 0,
+        "explication": "« Il faut vendre » : infinitif."
+      },
+      {
+        "q": "Vous (parler) trop vite.",
+        "choix": [
+          "parlez",
+          "parler",
+          "parlé"
+        ],
+        "reponse": 0,
+        "explication": "Sujet « vous » : terminaison -ez."
+      }
+    ]
+  },
+  {
+    "id": "tout",
+    "titre": "Accord de « tout » devant un adjectif",
+    "categorie": "Accords",
+    "mots_cles": [
+      "tout adverbe",
+      "accord de tout",
+      "tout, toute, tous, toutes",
+      "tout devant un adjectif"
+    ],
+    "explication": "Adverbe (= entièrement), « tout » est invariable, sauf devant un adjectif féminin commençant par une consonne ou un h aspiré : il s'accorde alors.",
+    "astuce": "Regarde la première lettre de l'adjectif : consonne → toute ; voyelle ou h muet → tout.",
+    "exemples": [
+      {
+        "faux": "Elle est tout contente.",
+        "juste": "Elle est toute contente."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Elle est ___ contente.",
+        "choix": [
+          "toute",
+          "tout",
+          "tous"
+        ],
+        "reponse": 0,
+        "explication": "« contente » est féminin et commence par une consonne."
+      },
+      {
+        "q": "Elle est ___ heureuse.",
+        "choix": [
+          "tout",
+          "toute",
+          "toutes"
+        ],
+        "reponse": 0,
+        "explication": "« heureuse » commence par un h muet : « tout » reste invariable."
+      }
+    ],
+    "formes": [
+      "toute",
+      "toutes"
+    ]
+  },
+  {
+    "id": "pleonasme",
+    "titre": "Pléonasmes",
+    "categorie": "Expression",
+    "mots_cles": [
+      "pléonasme",
+      "redondance",
+      "collaborer ensemble",
+      "prévoir d'avance",
+      "monter en haut"
+    ],
+    "explication": "Un pléonasme répète inutilement une idée déjà contenue dans un mot : prévoir d'avance, collaborer ensemble, descendre en bas.",
+    "astuce": "Le sens du verbe contient déjà l'information ajoutée : supprime le mot en trop.",
+    "exemples": [
+      {
+        "faux": "Il faut prévoir d'avance.",
+        "juste": "Il faut prévoir."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Quelle phrase est correcte ?",
+        "choix": [
+          "Il va collaborer avec nous.",
+          "Il va collaborer ensemble avec nous."
+        ],
+        "reponse": 0,
+        "explication": "« Collaborer » signifie déjà « travailler avec »."
+      },
+      {
+        "q": "Quel est le pléonasme ?",
+        "choix": [
+          "Prévoir d'avance",
+          "Prévoir un budget"
+        ],
+        "reponse": 0,
+        "explication": "Prévoir, c'est déjà voir à l'avance."
+      }
+    ]
+  },
+  {
+    "id": "imperatif",
+    "titre": "Impératif : le « s » de la 2e personne du singulier",
+    "categorie": "Conjugaison",
+    "mots_cles": [
+      "impératif",
+      "2e personne du singulier",
+      "verbes en -er à l'impératif",
+      "parles-en",
+      "vas-y"
+    ],
+    "explication": "À l'impératif, les verbes en -er (et cueillir, offrir, ouvrir…) n'ont pas de s à la 2e personne du singulier (Parle !). On l'ajoute devant « y » et « en » : Parles-en, Vas-y.",
+    "astuce": "Devant y ou en, le s sert à la liaison.",
+    "exemples": [
+      {
+        "faux": "Parles plus doucement.",
+        "juste": "Parle plus doucement."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "___ plus doucement. (parler)",
+        "choix": [
+          "Parle",
+          "Parles"
+        ],
+        "reponse": 0,
+        "explication": "Verbe en -er, impératif : pas de s."
+      },
+      {
+        "q": "___-en à ton frère. (parler)",
+        "choix": [
+          "Parles",
+          "Parle"
+        ],
+        "reponse": 0,
+        "explication": "Devant « en », on ajoute un s."
+      }
+    ],
+    "formes": [
+      "vas-y",
+      "parles-en"
+    ]
+  },
+  {
+    "id": "subjonctif",
+    "titre": "Emploi du subjonctif",
+    "categorie": "Conjugaison",
+    "mots_cles": [
+      "subjonctif",
+      "bien que",
+      "il faut que",
+      "pour que",
+      "avant que",
+      "jusqu'à ce que"
+    ],
+    "explication": "Le subjonctif s'emploie après il faut que, bien que, quoique, pour que, afin que, avant que, jusqu'à ce que…",
+    "astuce": "Si la conjonction exprime un but, une concession ou une obligation, pense subjonctif.",
+    "exemples": [
+      {
+        "faux": "Bien qu'il est fatigué, il travaille.",
+        "juste": "Bien qu'il soit fatigué, il travaille."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Bien qu'il ___ fatigué, il travaille.",
+        "choix": [
+          "soit",
+          "est",
+          "sera"
+        ],
+        "reponse": 0,
+        "explication": "« Bien que » est suivi du subjonctif."
+      },
+      {
+        "q": "Il faut que tu ___ . (venir)",
+        "choix": [
+          "viennes",
+          "viens",
+          "viendras"
+        ],
+        "reponse": 0,
+        "explication": "« Il faut que » est suivi du subjonctif."
+      }
+    ]
+  },
+  {
+    "id": "apres-que",
+    "titre": "« Après que » + indicatif",
+    "categorie": "Conjugaison",
+    "mots_cles": [
+      "après que",
+      "indicatif ou subjonctif",
+      "après que + indicatif"
+    ],
+    "explication": "La norme traditionnelle demande l'indicatif après « après que », car l'action est réelle et déjà accomplie.",
+    "astuce": "Après que (fait réel) = indicatif ; avant que (fait à venir) = subjonctif.",
+    "exemples": [
+      {
+        "faux": "Après qu'il soit parti, nous avons mangé.",
+        "juste": "Après qu'il est parti, nous avons mangé."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Après qu'il ___ parti, nous avons mangé.",
+        "choix": [
+          "est",
+          "soit",
+          "fût"
+        ],
+        "reponse": 0,
+        "explication": "« Après que » : indicatif."
+      }
+    ]
+  },
+  {
+    "id": "si-conditionnel",
+    "titre": "« Si » hypothétique : pas de conditionnel",
+    "categorie": "Conjugaison",
+    "mots_cles": [
+      "après si",
+      "si hypothétique",
+      "concordance des temps",
+      "si + imparfait"
+    ],
+    "explication": "Après « si » hypothétique, on n'emploie ni le futur ni le conditionnel : si + présent → futur ; si + imparfait → conditionnel.",
+    "astuce": "Le conditionnel va dans la proposition principale, pas après « si ».",
+    "exemples": [
+      {
+        "faux": "Si j'aurais le temps, je viendrais.",
+        "juste": "Si j'avais le temps, je viendrais."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Si j'___ le temps, je viendrais.",
+        "choix": [
+          "avais",
+          "aurais",
+          "aurai"
+        ],
+        "reponse": 0,
+        "explication": "Si + imparfait, puis conditionnel dans la principale."
+      }
+    ]
+  },
+  {
+    "id": "participe-present",
+    "titre": "Participe présent et adjectif verbal",
+    "categorie": "Orthographe",
+    "mots_cles": [
+      "participe présent",
+      "adjectif verbal",
+      "fatiguant",
+      "-ant",
+      "différent / différant"
+    ],
+    "explication": "Le participe présent exprime une action et est invariable (en fatiguant ses collègues). L'adjectif verbal décrit un état et s'accorde (une tâche fatigante). L'orthographe peut différer : fatiguant / fatigant.",
+    "astuce": "Si tu peux le remplacer par « qui est… » ou mettre « très » devant, c'est un adjectif verbal.",
+    "exemples": [
+      {
+        "faux": "Une tâche fatiguante.",
+        "juste": "Une tâche fatigante."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Une tâche ___.",
+        "choix": [
+          "fatigante",
+          "fatiguante"
+        ],
+        "reponse": 0,
+        "explication": "Adjectif verbal : s'écrit -gante."
+      },
+      {
+        "q": "En ___ ses collègues, il s'est fait mal voir.",
+        "choix": [
+          "fatiguant",
+          "fatigant"
+        ],
+        "reponse": 0,
+        "explication": "Participe présent (action) : -guant, invariable."
+      }
+    ]
+  },
+  {
+    "id": "adverbes-ment",
+    "titre": "Adverbes en -emment / -amment",
+    "categorie": "Orthographe",
+    "mots_cles": [
+      "adverbe en -ment",
+      "-emment",
+      "-amment",
+      "évidemment"
+    ],
+    "explication": "Les adjectifs en -ent donnent -emment (évident → évidemment). Les adjectifs en -ant donnent -amment (constant → constamment).",
+    "astuce": "Les deux terminaisons se prononcent de la même façon : repère la terminaison de l'adjectif.",
+    "exemples": [
+      {
+        "faux": "Il parle courremment.",
+        "juste": "Il parle couramment."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Il parle ___. (courant)",
+        "choix": [
+          "couramment",
+          "courrament",
+          "courremment"
+        ],
+        "reponse": 0,
+        "explication": "Adjectif en -ant → -amment."
+      },
+      {
+        "q": "___, il a raison. (évident)",
+        "choix": [
+          "Évidemment",
+          "Évidamment"
+        ],
+        "reponse": 0,
+        "explication": "Adjectif en -ent → -emment."
+      }
+    ]
+  },
+  {
+    "id": "quant-quand",
+    "titre": "quand / quant / qu'en",
+    "categorie": "Homophones",
+    "mots_cles": [
+      "quand / quant",
+      "quant à",
+      "quand ou quant",
+      "qu'en"
+    ],
+    "explication": "« quand » = lorsque. « quant à » = pour ce qui est de. « qu'en » = que + en.",
+    "astuce": "Si tu peux remplacer par « lorsque » : quand. Si tu peux dire « pour ce qui est de » : quant (toujours suivi de « à »).",
+    "exemples": [
+      {
+        "faux": "Quand à moi, je reste.",
+        "juste": "Quant à moi, je reste."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "___ à moi, je reste.",
+        "choix": [
+          "Quant",
+          "Quand",
+          "Qu'en"
+        ],
+        "reponse": 0,
+        "explication": "« Pour ce qui est de moi » : quant à."
+      },
+      {
+        "q": "___ il pleut, je reste.",
+        "choix": [
+          "Quand",
+          "Quant"
+        ],
+        "reponse": 0,
+        "explication": "« Lorsqu'il pleut » : quand."
+      }
+    ],
+    "formes": [
+      "quant",
+      "qu'en"
+    ]
+  },
+  {
+    "id": "plutot-plus-tot",
+    "titre": "plutôt / plus tôt",
+    "categorie": "Homophones",
+    "mots_cles": [
+      "plutôt / plus tôt",
+      "plutôt ou plus tôt",
+      "plus tôt"
+    ],
+    "explication": "« plutôt » exprime une préférence (plutôt le thé). « plus tôt » s'oppose à « plus tard ».",
+    "astuce": "Remplace par « plus tard » : si c'est possible, écris « plus tôt » en deux mots.",
+    "exemples": [
+      {
+        "faux": "Il est arrivé plutôt que prévu.",
+        "juste": "Il est arrivé plus tôt que prévu."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Il est arrivé ___ que prévu.",
+        "choix": [
+          "plus tôt",
+          "plutôt"
+        ],
+        "reponse": 0,
+        "explication": "On peut dire « plus tard que prévu »."
+      },
+      {
+        "q": "Je préfère ___ le thé.",
+        "choix": [
+          "plutôt",
+          "plus tôt"
+        ],
+        "reponse": 0,
+        "explication": "Il s'agit d'une préférence."
+      }
+    ],
+    "formes": [
+      "plutôt",
+      "plus tôt"
+    ]
+  },
+  {
+    "id": "quoique",
+    "titre": "quoique / quoi que",
+    "categorie": "Homophones",
+    "mots_cles": [
+      "quoique / quoi que",
+      "quoique",
+      "quoi que",
+      "locution concessive"
+    ],
+    "explication": "« quoique » = bien que. « quoi que » = quelle que soit la chose que. Les deux sont suivis du subjonctif.",
+    "astuce": "Remplace par « bien que » : si c'est possible, écris « quoique » en un mot.",
+    "exemples": [
+      {
+        "faux": "Quoi que fatigué, il vient.",
+        "juste": "Quoique fatigué, il vient."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "___ il soit fatigué, il vient.",
+        "choix": [
+          "Quoique",
+          "Quoi que"
+        ],
+        "reponse": 0,
+        "explication": "« Bien qu'il soit fatigué » : quoique."
+      },
+      {
+        "q": "___ tu fasses, je t'aiderai.",
+        "choix": [
+          "Quoi que",
+          "Quoique"
+        ],
+        "reponse": 0,
+        "explication": "« Quelle que soit la chose que tu fasses » : quoi que."
+      }
+    ],
+    "formes": [
+      "quoique",
+      "quoi que"
+    ]
+  },
+  {
+    "id": "verbes-ger-cer",
+    "titre": "Verbes en -ger et -cer",
+    "categorie": "Conjugaison",
+    "mots_cles": [
+      "verbes en -ger",
+      "verbes en -cer",
+      "nous mangeons",
+      "nous commençons"
+    ],
+    "explication": "Devant a ou o, les verbes en -ger prennent un e (nous mangeons) et ceux en -cer prennent une cédille (nous commençons).",
+    "astuce": "Le e et la cédille servent à garder le son [ʒ] et [s].",
+    "exemples": [
+      {
+        "faux": "Nous mangons.",
+        "juste": "Nous mangeons."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Nous (manger).",
+        "choix": [
+          "mangeons",
+          "mangons"
+        ],
+        "reponse": 0,
+        "explication": "Devant o, on garde un e pour le son [ʒ]."
+      },
+      {
+        "q": "Nous (commencer).",
+        "choix": [
+          "commençons",
+          "commencons"
+        ],
+        "reponse": 0,
+        "explication": "Devant o, la cédille garde le son [s]."
+      }
+    ]
+  },
+  {
+    "id": "verbes-yer",
+    "titre": "Verbes en -oyer, -uyer, -ayer",
+    "categorie": "Conjugaison",
+    "mots_cles": [
+      "verbes en -yer",
+      "-oyer",
+      "-uyer",
+      "il envoie"
+    ],
+    "explication": "Les verbes en -oyer et -uyer changent y en i devant un e muet (il envoie, il essuie). Pour -ayer, les deux formes sont admises (il paie / il paye).",
+    "astuce": "Si la terminaison est muette (e, es, ent), le y devient i.",
+    "exemples": [
+      {
+        "faux": "Il envoye un message.",
+        "juste": "Il envoie un message."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Il (envoyer) un message.",
+        "choix": [
+          "envoie",
+          "envoye"
+        ],
+        "reponse": 0,
+        "explication": "-oyer : y devient i devant e muet."
+      },
+      {
+        "q": "Il (essuyer) la table.",
+        "choix": [
+          "essuie",
+          "essuye"
+        ],
+        "reponse": 0,
+        "explication": "-uyer : y devient i devant e muet."
+      }
+    ]
+  },
+  {
+    "id": "futur-conditionnel",
+    "titre": "Futur et conditionnel : -rai / -rais",
+    "categorie": "Conjugaison",
+    "mots_cles": [
+      "futur ou conditionnel",
+      "-rai ou -rais",
+      "futur simple",
+      "conditionnel présent"
+    ],
+    "explication": "À la 1re personne, le futur se termine par -rai (je viendrai) et le conditionnel par -rais (je viendrais).",
+    "astuce": "Remplace « je » par « nous » : -rons → futur ; -rions → conditionnel.",
+    "exemples": [
+      {
+        "faux": "Demain, je viendrais.",
+        "juste": "Demain, je viendrai."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Demain, je (venir).",
+        "choix": [
+          "viendrai",
+          "viendrais"
+        ],
+        "reponse": 0,
+        "explication": "« Demain, nous viendrons » : futur."
+      },
+      {
+        "q": "Si j'avais le temps, je (venir).",
+        "choix": [
+          "viendrais",
+          "viendrai"
+        ],
+        "reponse": 0,
+        "explication": "Si + imparfait → conditionnel."
+      }
+    ]
+  },
+  {
+    "id": "faire-infinitif",
+    "titre": "« Fait » suivi d'un infinitif",
+    "categorie": "Accords",
+    "mots_cles": [
+      "participe passé de faire",
+      "fait suivi d'un infinitif",
+      "laissé suivi d'un infinitif",
+      "participe passé fait"
+    ],
+    "explication": "Le participe passé de faire reste invariable quand il est suivi d'un infinitif (les arbres qu'il a fait abattre).",
+    "astuce": "« Faire + infinitif » forme un bloc : fait ne s'accorde pas.",
+    "exemples": [
+      {
+        "faux": "Elle s'est faite couper les cheveux.",
+        "juste": "Elle s'est fait couper les cheveux."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Les fleurs qu'elle a ___ pousser.",
+        "choix": [
+          "fait",
+          "faites",
+          "faits"
+        ],
+        "reponse": 0,
+        "explication": "Suivi d'un infinitif : invariable."
+      },
+      {
+        "q": "Elle s'est ___ couper les cheveux.",
+        "choix": [
+          "fait",
+          "faite"
+        ],
+        "reponse": 0,
+        "explication": "Suivi d'un infinitif : invariable."
+      }
+    ]
+  },
+  {
+    "id": "couleurs",
+    "titre": "Accord des adjectifs de couleur",
+    "categorie": "Accords",
+    "mots_cles": [
+      "adjectif de couleur",
+      "couleur invariable",
+      "adjectifs de couleur",
+      "bleu clair"
+    ],
+    "explication": "Un adjectif de couleur s'accorde, sauf s'il vient d'un nom (orange, marron, cerise) ou s'il est composé (bleu clair, vert foncé) : il est alors invariable.",
+    "astuce": "Si tu peux dire « de la couleur de… » : c'est un nom, donc invariable.",
+    "exemples": [
+      {
+        "faux": "Des chaussures marrons.",
+        "juste": "Des chaussures marron."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Des chaussures ___. (marron)",
+        "choix": [
+          "marron",
+          "marrons"
+        ],
+        "reponse": 0,
+        "explication": "Couleur issue d'un nom : invariable."
+      },
+      {
+        "q": "Des robes ___. (rouge)",
+        "choix": [
+          "rouges",
+          "rouge"
+        ],
+        "reponse": 0,
+        "explication": "Vrai adjectif de couleur : il s'accorde."
+      }
+    ]
+  },
+  {
+    "id": "nombres",
+    "titre": "Accord de « vingt » et « cent »",
+    "categorie": "Accords",
+    "mots_cles": [
+      "quatre-vingts",
+      "deux cents",
+      "accord de vingt et cent",
+      "adjectifs numéraux"
+    ],
+    "explication": "« vingt » et « cent » prennent un s quand ils sont multipliés et non suivis d'un autre nombre (quatre-vingts, deux cents). Suivis d'un autre nombre, ils restent invariables (quatre-vingt-deux, deux cent trois).",
+    "astuce": "Un autre nombre derrière ? Pas de s.",
+    "exemples": [
+      {
+        "faux": "Quatre-vingt euros.",
+        "juste": "Quatre-vingts euros."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Quatre-___ euros.",
+        "choix": [
+          "vingts",
+          "vingt"
+        ],
+        "reponse": 0,
+        "explication": "Multiplié (4 × 20) et rien après : s."
+      },
+      {
+        "q": "Deux ___ trois euros.",
+        "choix": [
+          "cent",
+          "cents"
+        ],
+        "reponse": 0,
+        "explication": "Suivi d'un autre nombre : invariable."
+      }
+    ],
+    "formes": [
+      "vingt",
+      "vingts",
+      "cent",
+      "cents",
+      "quatre-vingt",
+      "quatre-vingts"
+    ]
+  },
+  {
+    "id": "orthographe-usage",
+    "titre": "Orthographe d'usage : les mots sans règle",
+    "categorie": "Orthographe",
+    "mots_cles": [
+      "orthographe d'usage",
+      "orthographe lexicale",
+      "double consonne",
+      "consonne double",
+      "avec un seul",
+      "s'écrit avec"
+    ],
+    "explication": "Beaucoup de mots n'obéissent à aucune règle (appeler, rapport, dilemme…) : seule la mémoire visuelle aide. Réflexes utiles : chercher un mot de la même famille, repérer la lettre qui pose problème, inventer une phrase mnémotechnique. Utilise « Retenir » pour mettre le mot dans ton carnet et le réviser.",
+    "astuce": "Écris le mot correct trois fois en soulignant la difficulté, puis révise-le le lendemain.",
+    "exemples": [
+      {
+        "faux": "Il apelle son frère.",
+        "juste": "Il appelle son frère."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Quelle astuce aide à écrire « appeler » avec deux p ?",
+        "choix": [
+          "Penser au mot de la même famille « appel »",
+          "Tirer au hasard",
+          "Compter les syllabes"
+        ],
+        "reponse": 0,
+        "explication": "La famille de mots (appel, appeler, rappel) montre la double consonne."
+      }
+    ]
+  },
+  {
+    "id": "eler-eter",
+    "titre": "Verbes en -eler / -eter",
+    "categorie": "Orthographe",
+    "mots_cles": [
+      "verbes en -eler",
+      "verbes en -eter",
+      "e muet",
+      "doublement de la consonne",
+      "accent grave"
+    ],
+    "explication": "Devant un e muet, ces verbes doublent la consonne (appeler → j'appelle, jeter → je jette) ou prennent un accent grave (acheter → j'achète, geler → il gèle, peler → il pèle, modeler → il modèle).",
+    "astuce": "Apprends la petite liste à accent grave (acheter, geler, peler, modeler) : les autres doublent la consonne.",
+    "exemples": [
+      {
+        "faux": "Il jète la balle.",
+        "juste": "Il jette la balle."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Il (jeter) la balle.",
+        "choix": [
+          "jette",
+          "jète"
+        ],
+        "reponse": 0,
+        "explication": "Jeter double le t devant un e muet."
+      },
+      {
+        "q": "Il (acheter) du pain.",
+        "choix": [
+          "achète",
+          "achette"
+        ],
+        "reponse": 0,
+        "explication": "Acheter prend un accent grave."
+      },
+      {
+        "q": "Elle (appeler) son frère.",
+        "choix": [
+          "appelle",
+          "appèle"
+        ],
+        "reponse": 0,
+        "explication": "Appeler double le l."
+      }
+    ]
+  },
+  {
+    "id": "tion-sion",
+    "titre": "-tion, -sion, -ssion",
+    "categorie": "Orthographe",
+    "mots_cles": [
+      "-tion",
+      "-sion",
+      "-ssion",
+      "finale en -ion"
+    ],
+    "explication": "Le son [sjɔ̃] s'écrit le plus souvent -tion (attention, solution). On écrit -sion après une consonne (tension, expansion) ou une voyelle (vision, invasion). Les mots de la famille de verbes en -mettre, -primer, -céder, -cuter prennent -ssion (admission, impression, concession, discussion).",
+    "astuce": "Cherche le verbe de la famille : admettre → admission.",
+    "exemples": [
+      {
+        "faux": "Une admition.",
+        "juste": "Une admission."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Quel mot est bien orthographié ?",
+        "choix": [
+          "admission",
+          "admition",
+          "admision"
+        ],
+        "reponse": 0,
+        "explication": "Admettre → admission."
+      },
+      {
+        "q": "Quel mot est bien orthographié ?",
+        "choix": [
+          "tension",
+          "tention",
+          "tenssion"
+        ],
+        "reponse": 0,
+        "explication": "Après la consonne n, on écrit -sion (tendre → tension)."
+      }
+    ]
+  },
+  {
+    "id": "circonflexe",
+    "titre": "L'accent circonflexe",
+    "categorie": "Orthographe",
+    "mots_cles": [
+      "accent circonflexe",
+      "circonflexe"
+    ],
+    "explication": "L'accent circonflexe remplace souvent un s disparu : forêt (forestier), hôpital (hospitalier), honnête (honnesteté). Penser à un mot de la même famille aide à le retrouver.",
+    "astuce": "Cherche un dérivé qui a gardé le s : hôpital → hospitalier.",
+    "exemples": [
+      {
+        "faux": "Un hopital.",
+        "juste": "Un hôpital."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Quel mot est bien orthographié ?",
+        "choix": [
+          "hôpital",
+          "hopital",
+          "hôpitale"
+        ],
+        "reponse": 0,
+        "explication": "Famille : hospitalier."
+      },
+      {
+        "q": "Quel mot est bien orthographié ?",
+        "choix": [
+          "honnête",
+          "honnete",
+          "honnète"
+        ],
+        "reponse": 0,
+        "explication": "Honnête prend un circonflexe sur le ê."
+      }
+    ]
+  },
+  {
+    "id": "pluriel-x",
+    "titre": "Pluriel en -x : bijoux, cailloux…",
+    "categorie": "Orthographe",
+    "mots_cles": [
+      "pluriel en -x",
+      "pluriel des noms en -ou",
+      "bijoux",
+      "cailloux"
+    ],
+    "explication": "Sept noms en -ou prennent un x au pluriel : bijou, caillou, chou, genou, hibou, joujou, pou. Les autres prennent un s (clous, trous, fous). Les noms en -eau, -au, -eu prennent x (gâteaux, tuyaux, feux), sauf landau, sarrau, bleu, pneu (s).",
+    "astuce": "Mnémotechnique : bijou, caillou, chou, genou, hibou, joujou, pou.",
+    "exemples": [
+      {
+        "faux": "Des bijous.",
+        "juste": "Des bijoux."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Des (bijou).",
+        "choix": [
+          "bijoux",
+          "bijous"
+        ],
+        "reponse": 0,
+        "explication": "Bijou fait partie des sept noms en -oux."
+      },
+      {
+        "q": "Des (clou).",
+        "choix": [
+          "clous",
+          "cloux"
+        ],
+        "reponse": 0,
+        "explication": "Clou n'est pas dans la liste : pluriel en s."
+      }
+    ]
+  },
+  {
+    "id": "pluriel-aux",
+    "titre": "Pluriel en -aux / -als",
+    "categorie": "Orthographe",
+    "mots_cles": [
+      "pluriel en -aux",
+      "pluriel en -als",
+      "festivals",
+      "pluriel des noms en -al"
+    ],
+    "explication": "Les noms en -al font leur pluriel en -aux (un cheval, des chevaux), sauf bal, carnaval, chacal, festival, récital, régal, cérémonial, narval… qui prennent -als.",
+    "astuce": "Retiens la liste d'exceptions : bals, carnavals, chacals, festivals, récitals, régals.",
+    "exemples": [
+      {
+        "faux": "Des festivaux.",
+        "juste": "Des festivals."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Des (cheval).",
+        "choix": [
+          "chevaux",
+          "chevals"
+        ],
+        "reponse": 0,
+        "explication": "Règle générale : -al → -aux."
+      },
+      {
+        "q": "Des (festival).",
+        "choix": [
+          "festivals",
+          "festivaux"
+        ],
+        "reponse": 0,
+        "explication": "Festival fait partie des exceptions en -als."
+      }
+    ]
+  },
+  {
+    "id": "h-muet-aspire",
+    "titre": "H muet et h aspiré",
+    "categorie": "Orthographe",
+    "mots_cles": [
+      "h muet",
+      "h aspiré",
+      "élision",
+      "liaison"
+    ],
+    "explication": "Devant un h muet, on fait l'élision et la liaison (l'homme, les hommes). Devant un h aspiré, il n'y a ni élision ni liaison (le héros, les héros, le haricot).",
+    "astuce": "Le dictionnaire marque les h aspirés d'un astérisque ou d'un signe particulier.",
+    "exemples": [
+      {
+        "faux": "L'héros.",
+        "juste": "Le héros."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "___ héros",
+        "choix": [
+          "Le",
+          "L'"
+        ],
+        "reponse": 0,
+        "explication": "Le h de « héros » est aspiré : pas d'élision."
+      },
+      {
+        "q": "___ hôtel",
+        "choix": [
+          "L'",
+          "Le"
+        ],
+        "reponse": 0,
+        "explication": "Le h de « hôtel » est muet : élision."
+      }
+    ]
+  },
+  {
+    "id": "peut-etre",
+    "titre": "peut-être / peut être",
+    "categorie": "Orthographe",
+    "mots_cles": [
+      "peut-être",
+      "peut être",
+      "adverbe peut-être"
+    ],
+    "explication": "« peut-être » (adverbe, avec un trait d'union) signifie « sans doute ». « peut être » est le verbe pouvoir suivi du verbe être.",
+    "astuce": "Remplace par « sans doute » : si c'est possible, écris « peut-être ».",
+    "exemples": [
+      {
+        "faux": "Il viendra peut être.",
+        "juste": "Il viendra peut-être."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Il viendra ___.",
+        "choix": [
+          "peut-être",
+          "peut être"
+        ],
+        "reponse": 0,
+        "explication": "On peut dire « il viendra sans doute »."
+      },
+      {
+        "q": "Cela ___ utile.",
+        "choix": [
+          "peut être",
+          "peut-être"
+        ],
+        "reponse": 0,
+        "explication": "On ne peut pas dire « sans doute » : c'est le verbe pouvoir + être."
+      }
+    ]
+  },
+  {
+    "id": "lettres-muettes",
+    "titre": "Lettres finales muettes",
+    "categorie": "Orthographe",
+    "mots_cles": [
+      "lettre muette",
+      "lettre finale muette",
+      "famille de mots",
+      "mot dérivé"
+    ],
+    "explication": "Une lettre finale muette se retrouve souvent dans le féminin ou dans un mot de la même famille : froid → froide, grand → grande, tapis → tapisser, tas → tasser.",
+    "astuce": "Forme le féminin ou un dérivé et écoute la dernière lettre.",
+    "exemples": [
+      {
+        "faux": "Un tapi.",
+        "juste": "Un tapis (tapisser)."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Pourquoi « froid » s'écrit-il avec un d final ?",
+        "choix": [
+          "Le féminin « froide » fait entendre le d",
+          "Par hasard",
+          "Parce qu'il est masculin"
+        ],
+        "reponse": 0,
+        "explication": "On entend le d dans « froide »."
+      },
+      {
+        "q": "Comment savoir que « tas » prend un s ?",
+        "choix": [
+          "Penser au verbe « tasser »",
+          "Compter les lettres"
+        ],
+        "reponse": 0,
+        "explication": "Le dérivé « tasser » fait entendre le s."
+      }
+    ]
+  }
+]
